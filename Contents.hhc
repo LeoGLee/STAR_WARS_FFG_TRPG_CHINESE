@@ -47,11 +47,20 @@
                     </OBJECT>
                     <LI><OBJECT type="text/sitemap">
                       <param name="Name" value="十面骰">
-                      <param name="Local" value="D100.html">
+                      <param name="Local" value="十面骰.html">
                     </OBJECT>
                     <LI><OBJECT type="text/sitemap">
                       <param name="Name" value="骰子符号和结果">
                       <param name="Local" value="符号.html">
+                    </OBJECT>
+                </UL>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="骰子池">
+                </OBJECT>
+                <UL>
+                    <LI><OBJECT type="text/sitemap">
+                      <param name="Name" value="基本骰子池">
+                      <param name="Local" value="基本骰子池.html">
                     </OBJECT>
                 </UL>
             </UL>

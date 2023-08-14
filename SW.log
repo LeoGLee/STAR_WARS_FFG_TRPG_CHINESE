@@ -2,8 +2,14 @@ Microsoft HTML Help Compiler 4.74.8702
 
 Compiling d:\OneDrive\CHM试验\AGE OF REBELLION\SW.chm
 
+译名对照.html
 核心机制.html
 骰子.html
+正面骰子.html
+负面骰子.html
+原力骰子.html
+D100.html
+符号.html
 img\dice\01.png
 img\dice\02.png
 img\dice\03.png
@@ -20,13 +26,20 @@ img\dice\13.png
 img\dice\14.png
 img\dice\15.png
 img\dice\16.png
+img\dice\17.png
+img\dice\22.png
+img\dice\21.png
+img\dice\20.png
+img\dice\19.png
+img\dice\18.png
+img\dice\23.png
 
-Compile time: 0 minutes, 0 seconds
-4	Topics
-2	Local links
+Compile time: 0 minutes, 1 second
+8	Topics
+8	Local links
 0	Internet links
-16	Graphics
+23	Graphics
 
 
-Created d:\OneDrive\CHM试验\AGE OF REBELLION\SW.chm, 47,501 bytes
-Compression increased file by 5,024 bytes.
+Created d:\OneDrive\CHM试验\AGE OF REBELLION\SW.chm, 77,261 bytes
+Compression decreased file by 42,656 bytes.
