@@ -1,0 +1,2 @@
+# STAR_WARS_FFG_TRPG_CHINESE
+本项目的目的是翻译FFG出品的星球大战TRPG规则书，并编译成CHM文件。HHP文件用于编译CHM文件，翻译好的文章将编写成HTML网页以便后期添加到CHM文件中。
