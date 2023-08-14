@@ -1,0 +1,61 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Precision Helper 2.0.1">
+<!-- Sitemap 1.0 -->
+</HEAD>
+<BODY>
+    <OBJECT type="text/site properties">
+      <param name="FrameName" value="right">
+      <param name="Window Styles" value="0x00800025">
+      <param name="comment" value="title:星球大战角色扮演游戏">
+      <param name="comment" value="base:">
+    </OBJECT>
+    <UL>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="AGE OF REBELLION">
+        </OBJECT>
+        <UL>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="译名对照">
+              <param name="Local" value="译名对照.html">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="如何游戏">
+            </OBJECT>
+            <UL>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="核心机制">
+                  <param name="Local" value="D:\OneDrive\CHM试验\AGE OF REBELLION\核心机制.html">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="骰子">
+                  <param name="Local" value="骰子.html">
+                </OBJECT>
+                <UL>
+                    <LI><OBJECT type="text/sitemap">
+                      <param name="Name" value="正面骰子">
+                      <param name="Local" value="正面骰子.html">
+                    </OBJECT>
+                    <LI><OBJECT type="text/sitemap">
+                      <param name="Name" value="负面骰子">
+                      <param name="Local" value="负面骰子.html">
+                    </OBJECT>
+                    <LI><OBJECT type="text/sitemap">
+                      <param name="Name" value="原力骰子">
+                      <param name="Local" value="原力骰子.html">
+                    </OBJECT>
+                    <LI><OBJECT type="text/sitemap">
+                      <param name="Name" value="十面骰">
+                      <param name="Local" value="D100.html">
+                    </OBJECT>
+                    <LI><OBJECT type="text/sitemap">
+                      <param name="Name" value="骰子符号和结果">
+                      <param name="Local" value="符号.html">
+                    </OBJECT>
+                </UL>
+            </UL>
+        </UL>
+    </UL>
+</BODY>
+</HTML>
