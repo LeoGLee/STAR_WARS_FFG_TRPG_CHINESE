@@ -79,6 +79,10 @@
                       <param name="Local" value="其他检定.html">
                     </OBJECT>
                 </UL>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="命运点">
+                  <param name="Local" value="命运点.html">
+                </OBJECT>
             </UL>
         </UL>
     </UL>
