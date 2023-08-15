@@ -62,6 +62,14 @@
                       <param name="Name" value="基本骰子池">
                       <param name="Local" value="基本骰子池.html">
                     </OBJECT>
+                    <LI><OBJECT type="text/sitemap">
+                      <param name="Name" value="建立骰池">
+                      <param name="Local" value="建立骰池.html">
+                    </OBJECT>
+                    <LI><OBJECT type="text/sitemap">
+                      <param name="Name" value="新头部">
+                      <param name="Local" value="调整骰池.html">
+                    </OBJECT>
                 </UL>
             </UL>
         </UL>
