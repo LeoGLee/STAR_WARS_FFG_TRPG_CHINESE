@@ -55,7 +55,7 @@
                     </OBJECT>
                 </UL>
                 <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="骰子池">
+                  <param name="Name" value="骰池">
                 </OBJECT>
                 <UL>
                     <LI><OBJECT type="text/sitemap">
@@ -67,8 +67,16 @@
                       <param name="Local" value="建立骰池.html">
                     </OBJECT>
                     <LI><OBJECT type="text/sitemap">
-                      <param name="Name" value="新头部">
+                      <param name="Name" value="调整骰池">
                       <param name="Local" value="调整骰池.html">
+                    </OBJECT>
+                    <LI><OBJECT type="text/sitemap">
+                      <param name="Name" value="结算骰池">
+                      <param name="Local" value="结算骰池.html">
+                    </OBJECT>
+                    <LI><OBJECT type="text/sitemap">
+                      <param name="Name" value="其他检定">
+                      <param name="Local" value="其他检定.html">
                     </OBJECT>
                 </UL>
             </UL>
