@@ -13,77 +13,82 @@
     </OBJECT>
     <UL>
         <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="AGE OF REBELLION">
+          <param name="Name" value="译名对照">
+          <param name="Local" value="译名对照.html">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="如何游戏">
         </OBJECT>
         <UL>
             <LI><OBJECT type="text/sitemap">
-              <param name="Name" value="译名对照">
-              <param name="Local" value="译名对照.html">
+              <param name="Name" value="核心机制">
+              <param name="Local" value="D:\OneDrive\CHM试验\AGE OF REBELLION\核心机制.html">
             </OBJECT>
             <LI><OBJECT type="text/sitemap">
-              <param name="Name" value="如何游戏">
+              <param name="Name" value="骰子">
+              <param name="Local" value="骰子.html">
             </OBJECT>
             <UL>
                 <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="核心机制">
-                  <param name="Local" value="D:\OneDrive\CHM试验\AGE OF REBELLION\核心机制.html">
+                  <param name="Name" value="正面骰子">
+                  <param name="Local" value="正面骰子.html">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="骰子">
-                  <param name="Local" value="骰子.html">
+                  <param name="Name" value="负面骰子">
+                  <param name="Local" value="负面骰子.html">
                 </OBJECT>
-                <UL>
-                    <LI><OBJECT type="text/sitemap">
-                      <param name="Name" value="正面骰子">
-                      <param name="Local" value="正面骰子.html">
-                    </OBJECT>
-                    <LI><OBJECT type="text/sitemap">
-                      <param name="Name" value="负面骰子">
-                      <param name="Local" value="负面骰子.html">
-                    </OBJECT>
-                    <LI><OBJECT type="text/sitemap">
-                      <param name="Name" value="原力骰子">
-                      <param name="Local" value="原力骰子.html">
-                    </OBJECT>
-                    <LI><OBJECT type="text/sitemap">
-                      <param name="Name" value="十面骰">
-                      <param name="Local" value="十面骰.html">
-                    </OBJECT>
-                    <LI><OBJECT type="text/sitemap">
-                      <param name="Name" value="骰子符号和结果">
-                      <param name="Local" value="符号.html">
-                    </OBJECT>
-                </UL>
                 <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="骰池">
+                  <param name="Name" value="原力骰子">
+                  <param name="Local" value="原力骰子.html">
                 </OBJECT>
-                <UL>
-                    <LI><OBJECT type="text/sitemap">
-                      <param name="Name" value="基本骰子池">
-                      <param name="Local" value="基本骰子池.html">
-                    </OBJECT>
-                    <LI><OBJECT type="text/sitemap">
-                      <param name="Name" value="建立骰池">
-                      <param name="Local" value="建立骰池.html">
-                    </OBJECT>
-                    <LI><OBJECT type="text/sitemap">
-                      <param name="Name" value="调整骰池">
-                      <param name="Local" value="调整骰池.html">
-                    </OBJECT>
-                    <LI><OBJECT type="text/sitemap">
-                      <param name="Name" value="结算骰池">
-                      <param name="Local" value="结算骰池.html">
-                    </OBJECT>
-                    <LI><OBJECT type="text/sitemap">
-                      <param name="Name" value="其他检定">
-                      <param name="Local" value="其他检定.html">
-                    </OBJECT>
-                </UL>
                 <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="命运点">
-                  <param name="Local" value="命运点.html">
+                  <param name="Name" value="十面骰">
+                  <param name="Local" value="十面骰.html">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="骰子符号和结果">
+                  <param name="Local" value="符号.html">
                 </OBJECT>
             </UL>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="骰池">
+            </OBJECT>
+            <UL>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="基本骰子池">
+                  <param name="Local" value="基本骰子池.html">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="建立骰池">
+                  <param name="Local" value="建立骰池.html">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="调整骰池">
+                  <param name="Local" value="调整骰池.html">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="结算骰池">
+                  <param name="Local" value="结算骰池.html">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="其他检定">
+                  <param name="Local" value="其他检定.html">
+                </OBJECT>
+            </UL>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="命运点">
+              <param name="Local" value="命运点.html">
+            </OBJECT>
+        </UL>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="创建角色">
+          <param name="Local" value="角色创造.html">
+        </OBJECT>
+        <UL>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="责任（AOR）">
+              <param name="Local" value="责任(AoR).html">
+            </OBJECT>
         </UL>
     </UL>
 </BODY>
