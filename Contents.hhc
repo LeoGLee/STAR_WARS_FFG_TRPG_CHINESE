@@ -22,7 +22,7 @@
         <UL>
             <LI><OBJECT type="text/sitemap">
               <param name="Name" value="核心机制">
-              <param name="Local" value="D:\OneDrive\CHM试验\AGE OF REBELLION\核心机制.html">
+              <param name="Local" value="核心机制.html">
             </OBJECT>
             <LI><OBJECT type="text/sitemap">
               <param name="Name" value="骰子">
@@ -89,6 +89,15 @@
               <param name="Name" value="责任（AOR）">
               <param name="Local" value="责任(AoR).html">
             </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="种族">
+            </OBJECT>
+            <UL>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="博萨人">
+                  <param name="Local" value="博萨人.html">
+                </OBJECT>
+            </UL>
         </UL>
     </UL>
 </BODY>
