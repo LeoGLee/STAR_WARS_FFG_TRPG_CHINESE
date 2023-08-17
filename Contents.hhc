@@ -109,8 +109,27 @@
                   <param name="Name" value="格兰人">
                   <param name="Local" value="格兰人.html">
                 </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="人类">
+                  <param name="Local" value="人类.html">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="伊索人">
+                  <param name="Local" value="伊索人.html">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="蒙卡拉马里人">
+                  <param name="Local" value="蒙卡拉马里人.html">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="萨勒斯特人">
+                  <param name="Local" value="萨勒斯特人.html">
+                </OBJECT>
             </UL>
         </UL>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="职业&特长">
+        </OBJECT>
     </UL>
 </BODY>
 </HTML>
