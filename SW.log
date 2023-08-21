@@ -1,6 +1,6 @@
 Microsoft HTML Help Compiler 4.74.8702
 
-Compiling d:\OneDrive\CHM试验\AGE OF REBELLION\SW.chm
+Compiling d:\OneDrive\CHM试验\AGE OF REBELLION\星球大战角色扮演游戏.chm
 
 译名对照.html
 核心机制.html
@@ -8,8 +8,38 @@ Compiling d:\OneDrive\CHM试验\AGE OF REBELLION\SW.chm
 正面骰子.html
 负面骰子.html
 原力骰子.html
-D100.html
+十面骰.html
 符号.html
+基本骰子池.html
+建立骰池.html
+调整骰池.html
+结算骰池.html
+其他检定.html
+命运点.html
+角色创造.html
+责任(AoR).html
+义务（EotE）.html
+道德(Fad).html
+种族一览.html
+博萨人.html
+机器人.html
+杜罗人.html
+格兰人.html
+人类.html
+伊索人.html
+蒙卡拉马里人.html
+萨勒斯特人.html
+职业与特长.html
+花费经验值.html
+游戏大师规则书.html
+恐惧.html
+使用压力.html
+奖励经验值.html
+使用命运点.html
+使用责任.html
+使用义务.html
+使用道德.html
+跨游戏系列兼容性.html
 img\dice\01.png
 img\dice\02.png
 img\dice\03.png
@@ -33,13 +63,23 @@ img\dice\20.png
 img\dice\19.png
 img\dice\18.png
 img\dice\23.png
+img\dice\24.png
+img\Species\Bothan.png
+img\Species\Droid.png
+img\Species\Duros.png
+img\Species\Gran.png
+img\Species\Human.png
+img\Species\Ithorian.png
+img\Species\Mon_Calamari.png
+img\Species\Sullustans.png
+种族一览.files\filelist.xml
 
-Compile time: 0 minutes, 1 second
-8	Topics
-8	Local links
+Compile time: 0 minutes, 3 seconds
+38	Topics
+63	Local links
 0	Internet links
-23	Graphics
+32	Graphics
 
 
-Created d:\OneDrive\CHM试验\AGE OF REBELLION\SW.chm, 77,261 bytes
-Compression decreased file by 42,656 bytes.
+Created d:\OneDrive\CHM试验\AGE OF REBELLION\星球大战角色扮演游戏.chm, 1,589,420 bytes
+Compression decreased file by 335,205 bytes.

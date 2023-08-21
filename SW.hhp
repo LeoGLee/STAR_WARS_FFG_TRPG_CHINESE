@@ -1,16 +1,16 @@
 [OPTIONS]
 Title=星球大战角色扮演游戏
-Compiled file=
+Compiled file=星球大战角色扮演游戏.chm
 Error log file=
-Default topic=
+Default topic=译名对照.html
 Language=0x0804 中文(简体，中国)
 Full text search stop list file=
 Contents file=Contents.hhc
-Index file=
+Index file=Index.hhk
 Binary TOC=Yes
 Auto index=Yes
 Binary Index=Yes
-Create CHI file=No
+Create CHI file=Yes
 Full-text search=Yes
 Display compile progress=Yes
 Display compile notes=Yes

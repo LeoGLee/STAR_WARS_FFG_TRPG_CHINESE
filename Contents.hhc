@@ -9,7 +9,7 @@
       <param name="FrameName" value="right">
       <param name="Window Styles" value="0x00800025">
       <param name="comment" value="title:星球大战角色扮演游戏">
-      <param name="comment" value="base:">
+      <param name="comment" value="base:译名对照.html">
     </OBJECT>
     <UL>
         <LI><OBJECT type="text/sitemap">
@@ -17,118 +17,248 @@
           <param name="Local" value="译名对照.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="如何游戏">
+          <param name="Name" value="玩家手册">
         </OBJECT>
         <UL>
             <LI><OBJECT type="text/sitemap">
-              <param name="Name" value="核心机制">
-              <param name="Local" value="核心机制.html">
-            </OBJECT>
-            <LI><OBJECT type="text/sitemap">
-              <param name="Name" value="骰子">
-              <param name="Local" value="骰子.html">
+              <param name="Name" value="如何游戏">
             </OBJECT>
             <UL>
                 <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="正面骰子">
-                  <param name="Local" value="正面骰子.html">
+                  <param name="Name" value="核心机制">
+                  <param name="Local" value="核心机制.html">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="负面骰子">
-                  <param name="Local" value="负面骰子.html">
+                  <param name="Name" value="骰子">
+                  <param name="Local" value="骰子.html">
                 </OBJECT>
+                <UL>
+                    <LI><OBJECT type="text/sitemap">
+                      <param name="Name" value="正面骰子">
+                      <param name="Local" value="正面骰子.html">
+                    </OBJECT>
+                    <LI><OBJECT type="text/sitemap">
+                      <param name="Name" value="负面骰子">
+                      <param name="Local" value="负面骰子.html">
+                    </OBJECT>
+                    <LI><OBJECT type="text/sitemap">
+                      <param name="Name" value="原力骰子">
+                      <param name="Local" value="原力骰子.html">
+                    </OBJECT>
+                    <LI><OBJECT type="text/sitemap">
+                      <param name="Name" value="十面骰">
+                      <param name="Local" value="十面骰.html">
+                    </OBJECT>
+                    <LI><OBJECT type="text/sitemap">
+                      <param name="Name" value="骰子符号和结果">
+                      <param name="Local" value="符号.html">
+                    </OBJECT>
+                </UL>
                 <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="原力骰子">
-                  <param name="Local" value="原力骰子.html">
+                  <param name="Name" value="骰池">
                 </OBJECT>
+                <UL>
+                    <LI><OBJECT type="text/sitemap">
+                      <param name="Name" value="属性，技能和难度">
+                      <param name="Local" value="基本骰子池.html">
+                    </OBJECT>
+                    <LI><OBJECT type="text/sitemap">
+                      <param name="Name" value="建立骰池">
+                      <param name="Local" value="建立骰池.html">
+                    </OBJECT>
+                    <LI><OBJECT type="text/sitemap">
+                      <param name="Name" value="调整骰池">
+                      <param name="Local" value="调整骰池.html">
+                    </OBJECT>
+                    <LI><OBJECT type="text/sitemap">
+                      <param name="Name" value="结算骰池">
+                      <param name="Local" value="结算骰池.html">
+                    </OBJECT>
+                    <LI><OBJECT type="text/sitemap">
+                      <param name="Name" value="其他检定">
+                      <param name="Local" value="其他检定.html">
+                    </OBJECT>
+                </UL>
                 <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="十面骰">
-                  <param name="Local" value="十面骰.html">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="骰子符号和结果">
-                  <param name="Local" value="符号.html">
+                  <param name="Name" value="命运点">
+                  <param name="Local" value="命运点.html">
                 </OBJECT>
             </UL>
             <LI><OBJECT type="text/sitemap">
-              <param name="Name" value="骰池">
+              <param name="Name" value="创建角色">
+              <param name="Local" value="角色创造.html">
             </OBJECT>
             <UL>
                 <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="基本骰子池">
-                  <param name="Local" value="基本骰子池.html">
+                  <param name="Name" value="职责（AOR）">
+                  <param name="Local" value="责任(AoR).html">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="建立骰池">
-                  <param name="Local" value="建立骰池.html">
+                  <param name="Name" value="债务（EotE）">
+                  <param name="Local" value="义务（EotE）.html">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="调整骰池">
-                  <param name="Local" value="调整骰池.html">
+                  <param name="Name" value="道德（FaD）">
+                  <param name="Local" value="道德(Fad).html">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="结算骰池">
-                  <param name="Local" value="结算骰池.html">
+                  <param name="Name" value="种族">
+                  <param name="Local" value="种族一览.html">
                 </OBJECT>
+                <UL>
+                    <LI><OBJECT type="text/sitemap">
+                      <param name="Name" value="博萨人">
+                      <param name="Local" value="博萨人.html">
+                    </OBJECT>
+                    <LI><OBJECT type="text/sitemap">
+                      <param name="Name" value="机器人">
+                      <param name="Local" value="机器人.html">
+                    </OBJECT>
+                    <LI><OBJECT type="text/sitemap">
+                      <param name="Name" value="杜罗人">
+                      <param name="Local" value="杜罗人.html">
+                    </OBJECT>
+                    <LI><OBJECT type="text/sitemap">
+                      <param name="Name" value="格兰人">
+                      <param name="Local" value="格兰人.html">
+                    </OBJECT>
+                    <LI><OBJECT type="text/sitemap">
+                      <param name="Name" value="人类">
+                      <param name="Local" value="人类.html">
+                    </OBJECT>
+                    <LI><OBJECT type="text/sitemap">
+                      <param name="Name" value="伊索人">
+                      <param name="Local" value="伊索人.html">
+                    </OBJECT>
+                    <LI><OBJECT type="text/sitemap">
+                      <param name="Name" value="蒙卡拉马里人">
+                      <param name="Local" value="蒙卡拉马里人.html">
+                    </OBJECT>
+                    <LI><OBJECT type="text/sitemap">
+                      <param name="Name" value="萨勒斯特人">
+                      <param name="Local" value="萨勒斯特人.html">
+                    </OBJECT>
+                </UL>
                 <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="其他检定">
-                  <param name="Local" value="其他检定.html">
+                  <param name="Name" value="职业、特长与天赋">
+                  <param name="Local" value="职业与特长.html">
+                </OBJECT>
+                <UL>
+                    <LI><OBJECT type="text/sitemap">
+                      <param name="Name" value="精英ACE">
+                    </OBJECT>
+                    <UL>
+                        <LI><OBJECT type="text/sitemap">
+                          <param name="Name" value="司机">
+                        </OBJECT>
+                        <LI><OBJECT type="text/sitemap">
+                          <param name="Name" value="飞行员">
+                        </OBJECT>
+                    </UL>
+                    <LI><OBJECT type="text/sitemap">
+                      <param name="Name" value="通用">
+                    </OBJECT>
+                    <UL>
+                        <LI><OBJECT type="text/sitemap">
+                          <param name="Name" value="原力觉醒者">
+                        </OBJECT>
+                    </UL>
+                </UL>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="消费经验值XP">
+                  <param name="Local" value="花费经验值.html">
                 </OBJECT>
             </UL>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="技能">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="装备">
+            </OBJECT>
+            <UL>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="盔甲">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="武器">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="装备">
+                </OBJECT>
+            </UL>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="载具">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="战斗">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="原力">
+            </OBJECT>
+        </UL>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="GM手册">
+          <param name="Local" value="游戏大师规则书.html">
+        </OBJECT>
+        <UL>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="使用恐惧">
+              <param name="Local" value="恐惧.html">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="使用压力">
+              <param name="Local" value="使用压力.html">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="奖励经验值">
+              <param name="Local" value="奖励经验值.html">
+            </OBJECT>
             <LI><OBJECT type="text/sitemap">
               <param name="Name" value="命运点">
-              <param name="Local" value="命运点.html">
+              <param name="Local" value="使用命运点.html">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="使用职责（AoR）">
+              <param name="Local" value="使用责任.html">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="使用债务（EotE）">
+              <param name="Local" value="使用义务.html">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="使用道德（FaD）">
+              <param name="Local" value="使用道德.html">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="使用动机">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="创造冒险">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="跨游戏系列兼容">
+              <param name="Local" value="跨游戏系列兼容性.html">
             </OBJECT>
         </UL>
         <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="创建角色">
-          <param name="Local" value="角色创造.html">
+          <param name="Name" value="银河系">
         </OBJECT>
         <UL>
             <LI><OBJECT type="text/sitemap">
-              <param name="Name" value="责任（AOR）">
-              <param name="Local" value="责任(AoR).html">
+              <param name="Name" value="地区">
             </OBJECT>
             <LI><OBJECT type="text/sitemap">
-              <param name="Name" value="种族">
+              <param name="Name" value="义军">
             </OBJECT>
-            <UL>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="博萨人">
-                  <param name="Local" value="博萨人.html">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="机器人">
-                  <param name="Local" value="机器人.html">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="杜罗人">
-                  <param name="Local" value="杜罗人.html">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="格兰人">
-                  <param name="Local" value="格兰人.html">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="人类">
-                  <param name="Local" value="人类.html">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="伊索人">
-                  <param name="Local" value="伊索人.html">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="蒙卡拉马里人">
-                  <param name="Local" value="蒙卡拉马里人.html">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="萨勒斯特人">
-                  <param name="Local" value="萨勒斯特人.html">
-                </OBJECT>
-            </UL>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="法律与社会">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="绝地与西斯">
+            </OBJECT>
         </UL>
         <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="职业&特长">
+          <param name="Name" value="怪物图鉴">
         </OBJECT>
     </UL>
 </BODY>
