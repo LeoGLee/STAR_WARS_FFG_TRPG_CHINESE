@@ -158,11 +158,6 @@
                     <LI><OBJECT type="text/sitemap">
                       <param name="Name" value="通用">
                     </OBJECT>
-                    <UL>
-                        <LI><OBJECT type="text/sitemap">
-                          <param name="Name" value="原力觉醒者">
-                        </OBJECT>
-                    </UL>
                 </UL>
                 <LI><OBJECT type="text/sitemap">
                   <param name="Name" value="消费经验值XP">
@@ -172,29 +167,130 @@
             <LI><OBJECT type="text/sitemap">
               <param name="Name" value="技能">
             </OBJECT>
+            <UL>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="一般技能">
+                  <param name="Local" value="一般技能.html">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="战斗技能">
+                  <param name="Local" value="战斗技能.html">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="知识技能">
+                  <param name="Local" value="知识技能.html">
+                </OBJECT>
+            </UL>
             <LI><OBJECT type="text/sitemap">
               <param name="Name" value="装备">
+              <param name="Local" value="装备.html">
             </OBJECT>
             <UL>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="物品特性">
+                  <param name="Local" value="装备特性.html">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="武器">
+                  <param name="Local" value="武器数值.html">
+                </OBJECT>
+                <UL>
+                    <LI><OBJECT type="text/sitemap">
+                      <param name="Name" value="远程">
+                    </OBJECT>
+                    <LI><OBJECT type="text/sitemap">
+                      <param name="Name" value="近战">
+                    </OBJECT>
+                </UL>
                 <LI><OBJECT type="text/sitemap">
                   <param name="Name" value="盔甲">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="武器">
+                  <param name="Name" value="装备">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="装备">
+                  <param name="Name" value="改造">
                 </OBJECT>
             </UL>
             <LI><OBJECT type="text/sitemap">
               <param name="Name" value="载具">
             </OBJECT>
+            <UL>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="载具特性">
+                  <param name="Local" value="载具特性.html">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="飞船航行">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="载具战斗">
+                </OBJECT>
+                <UL>
+                    <LI><OBJECT type="text/sitemap">
+                      <param name="Name" value="武器">
+                    </OBJECT>
+                    <LI><OBJECT type="text/sitemap">
+                      <param name="Name" value="伤害">
+                    </OBJECT>
+                    <LI><OBJECT type="text/sitemap">
+                      <param name="Name" value="战斗">
+                    </OBJECT>
+                </UL>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="飞船">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="车辆">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="战舰">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="改造">
+                </OBJECT>
+            </UL>
             <LI><OBJECT type="text/sitemap">
               <param name="Name" value="战斗">
             </OBJECT>
+            <UL>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="战斗">
+                  <param name="Local" value="战斗.html">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="防御值与吸收值">
+                  <param name="Local" value="防御值与吸收值.html">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="距离">
+                  <param name="Local" value="距离.html">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="战斗调整">
+                  <param name="Local" value="战斗调整.html">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="环境影响">
+                  <param name="Local" value="环境影响.html">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="伤害与治疗">
+                </OBJECT>
+            </UL>
             <LI><OBJECT type="text/sitemap">
               <param name="Name" value="原力">
             </OBJECT>
+            <UL>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="原力敏感玩家">
+                  <param name="Local" value="原力敏感玩家.html">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="原力天赋">
+                  <param name="Local" value="原力能力与原力天赋.html">
+                </OBJECT>
+            </UL>
         </UL>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="GM手册">

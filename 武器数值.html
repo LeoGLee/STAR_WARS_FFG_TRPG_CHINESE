@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>武器数值</title>
+	</head>
+	<body>
+		<h1 align="center" style="color: blue;">武器数值</h1>
+		<hr color="blue" style="height: 2px;">
+		<h2>名字&nbsp;&nbsp;&nbsp;&nbsp;Name</h2>
+		<p>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;武器的通用名称。 这可能是一个广泛的标签，适用于几种密切相关的武器。
+		</p>
+		<h2>使用技能&nbsp;&nbsp;&nbsp;&nbsp;Skill Used(Skill)</h2>
+		<p>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;使用该武器攻击时使用的战斗技能。
+		</p>
+		<h2>基础伤害&nbsp;&nbsp;&nbsp;&nbsp;Base Damage(DAM)</h2>
+		<p>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;命中后造成的伤害值。此外淨<img src="img/dice/01.png"/>数也会加到伤害上去
+		</p>
+		<h2>重伤值&nbsp;&nbsp;&nbsp;&nbsp;Critical Rating(CRIT)</h2>
+		<p>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;需要多少<img src="img/dice/04.png"/>才能造成目标重伤，伤害必须要超过目标的吸收值才能造成重伤。若有足够的[优势]能够发动多次，每多一次+10到重伤掷骰上
+		</p>
+		<h2>攻击距离&nbsp;&nbsp;&nbsp;&nbsp;Range</h2>
+		<p>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;武器攻击距离，包括迎击，短距，中距，长距。
+		</p>
+		<h2>负重值&nbsp;&nbsp;&nbsp;&nbsp;Encumbrance(ENCUM)</h2>
+		<p>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;装备负重值
+		</p>
+		<h2>改造点数&nbsp;&nbsp;&nbsp;&nbsp;Hard Points(HP)</h2>
+		<p>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;可供改造的点数
+		</p>
+		<h2>价值&nbsp;&nbsp;&nbsp;&nbsp;Price</h2>
+		<p>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;价格。
+		</p>
+		<h2>稀有度&nbsp;&nbsp;&nbsp;&nbsp;Rarity</h2>
+		<p>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;稀有度。
+		</p>
+		<h2>特殊能力&nbsp;&nbsp;&nbsp;&nbsp;Special</h2>
+		<p>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;这些是每种武器所拥有的品质或其他特殊规则。 对这些特性的更深入的描述可以在第 168 页找到，而特定类型武器的特定规则在从第 173 页开始的武器描述中有详细说明。
+		</p>
+		<br>
+		<br>
+		<h1 align="center" style="color: blue;">武器维修</h1>
+		<hr color="blue" style="height: 2px;">
+		<p>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;武器总是会开始磨损。 投掷出<img src="img/dice/12.png"/>结果可能表明武器出现故障、失火、卡壳、损坏或以其他方式变得无法操作或受损，直到可以修复为止。<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;通常不依赖能量电池或复杂编程的低技术武器（例如弩枪或加菲棒）可以通过机械技能或使用该武器的技能进行修复。 依赖于编程、电路或电子设备（例如激光炮塔或导弹发射器）的更复杂的武器也可以通过计算机技能或使用该武器的战斗技能来修复（尽管机械总是可以用来修复武器）。<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;武器修理通常分为轻微、中度或严重。 所需维修的程度表明了两件事：当用户尝试操作有缺陷的武器时所受到的处罚的严重程度，以及必要维修的难度等级。 修理武器需要足够的时间和工具，通常每个难度级别需要一到两个小时。 如果角色尝试在更短的时间内进行修复，他就会将难度增加一分。 同样，如果角色缺乏适当的工具，他就会将难度增加一分。 这些因素是累积的，因此，在没有合适的工具且时间较短的情况下修理爆能抢时，难度会增加两倍。<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;修理费用等于武器基本成本的百分比：如果是轻微，则为 25%；如果是中度修理，则为 50%；如果是严重，则为 100%。 如果 PC 自己进行维修检查，则将维修检查中每收到一个<img src="img/dice/04.png"/>，总数减少 10%。 （非玩家角色武器匠不会降低其技能的价格。）<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;这确实意味着有时购买新武器比修理现有武器更容易，但这并不总是可能的。 它还不包括任何已进行的改造的价格，这些改造不计入维修成本。
+		</p>
+		<table align="center" border="1" width="600">
+			<caption><b>修理装备</b></caption>
+			 <tr align="center" style="color: white;">
+				<td bgcolor="darkorange"><b>修理</b></td>
+				 <td bgcolor="darkorange"><b>难度</b></td>
+				<td bgcolor="darkorange"><b>使用的处罚</b></td>
+			</tr>
+			<tr align="center">
+				<td bgcolor="orange">轻微</td>
+				<td bgcolor="orange"><img src="img/dice/19.png"/></td>
+				<td bgcolor="orange"><img src="img/dice/20.png"/></td>
+			</tr>
+			<tr align="center">
+				<td>中度</td>
+				<td><img src="img/dice/19.png"/><img src="img/dice/19.png"/></td>
+				<td><img src="img/dice/19.png"/></td>
+		 	</tr>
+			<tr align="center">
+			 	<td bgcolor="orange">严重</td>
+				<td bgcolor="orange"><img src="img/dice/19.png"/><img src="img/dice/19.png"/><img src="img/dice/19.png"/></td>
+				<td bgcolor="orange" >无法使用</td>
+			</tr>
+		</table>
+	</body>
+</html>

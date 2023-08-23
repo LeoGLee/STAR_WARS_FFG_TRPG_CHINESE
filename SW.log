@@ -31,6 +31,20 @@ Compiling d:\OneDrive\CHM试验\AGE OF REBELLION\星球大战角色扮演游戏.chm
 萨勒斯特人.html
 职业与特长.html
 花费经验值.html
+一般技能.html
+战斗技能.html
+知识技能.html
+装备.html
+装备特性.html
+武器数值.html
+载具特性.html
+战斗.html
+防御值与吸收值.html
+距离.html
+战斗调整.html
+环境影响.html
+原力敏感玩家.html
+原力能力与原力天赋.html
 游戏大师规则书.html
 恐惧.html
 使用压力.html
@@ -72,14 +86,27 @@ img\Species\Human.png
 img\Species\Ithorian.png
 img\Species\Mon_Calamari.png
 img\Species\Sullustans.png
+装备特性.files\image001.gif
+装备特性.files\image002.gif
+装备特性.files\image003.gif
+装备特性.files\image004.gif
+装备特性.files\image005.gif
+装备特性.files\image006.gif
+装备特性.files\image007.gif
+装备特性.files\image008.gif
+装备特性.files\image009.gif
+载具特性.files\image001.png
+载具特性.files\image002.png
+载具特性.files\image003.png
+载具特性.files\image004.png
 种族一览.files\filelist.xml
 
 Compile time: 0 minutes, 3 seconds
-38	Topics
-63	Local links
+52	Topics
+106	Local links
 0	Internet links
-32	Graphics
+45	Graphics
 
 
-Created d:\OneDrive\CHM试验\AGE OF REBELLION\星球大战角色扮演游戏.chm, 1,589,420 bytes
-Compression decreased file by 335,205 bytes.
+Created d:\OneDrive\CHM试验\AGE OF REBELLION\星球大战角色扮演游戏.chm, 1,704,199 bytes
+Compression decreased file by 470,472 bytes.
