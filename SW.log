@@ -2,6 +2,7 @@ Microsoft HTML Help Compiler 4.74.8702
 
 Compiling d:\OneDrive\CHM试验\AGE OF REBELLION\星球大战角色扮演游戏.chm
 
+主页.html
 译名对照.html
 核心机制.html
 骰子.html
@@ -37,12 +38,14 @@ Compiling d:\OneDrive\CHM试验\AGE OF REBELLION\星球大战角色扮演游戏.chm
 装备.html
 装备特性.html
 武器数值.html
-载具特性.html
 战斗.html
 防御值与吸收值.html
 距离.html
 战斗调整.html
 环境影响.html
+载具特性.html
+载具武器.html
+载具战斗.html
 原力敏感玩家.html
 原力能力与原力天赋.html
 游戏大师规则书.html
@@ -53,7 +56,9 @@ Compiling d:\OneDrive\CHM试验\AGE OF REBELLION\星球大战角色扮演游戏.chm
 使用责任.html
 使用义务.html
 使用道德.html
+以小队和中队的形式作战.html
 跨游戏系列兼容性.html
+盟友与对手.html
 img\dice\01.png
 img\dice\02.png
 img\dice\03.png
@@ -100,13 +105,16 @@ img\Species\Sullustans.png
 载具特性.files\image003.png
 载具特性.files\image004.png
 种族一览.files\filelist.xml
+载具特性.files\filelist.xml
+载具特性.files\themedata.thmx
+载具特性.files\colorschememapping.xml
 
-Compile time: 0 minutes, 3 seconds
-52	Topics
-106	Local links
+Compile time: 0 minutes, 4 seconds
+114	Topics
+116	Local links
 0	Internet links
 45	Graphics
 
 
-Created d:\OneDrive\CHM试验\AGE OF REBELLION\星球大战角色扮演游戏.chm, 1,704,199 bytes
-Compression decreased file by 470,472 bytes.
+Created d:\OneDrive\CHM试验\AGE OF REBELLION\星球大战角色扮演游戏.chm, 1,763,451 bytes
+Compression decreased file by 521,139 bytes.

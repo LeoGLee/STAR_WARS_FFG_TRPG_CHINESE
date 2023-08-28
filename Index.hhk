@@ -94,10 +94,6 @@
           <param name="Local" value="跨游戏系列兼容性.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="跨游戏系列兼容性">
-          <param name="Local" value="跨游戏系列兼容性.html">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
           <param name="Name" value="蒙卡拉马里人">
           <param name="Local" value="蒙卡拉马里人.html">
         </OBJECT>
@@ -224,6 +220,30 @@
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="装备特性">
           <param name="Local" value="装备特性.html">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="以小队和中队的形式作战">
+          <param name="Local" value="以小队和中队的形式作战.html">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="盟友与对手">
+          <param name="Local" value="盟友与对手.html">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="载具武器">
+          <param name="Local" value="载具武器.html">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="载具战斗">
+          <param name="Local" value="载具战斗.html">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="跨游戏系列兼容性">
+          <param name="Local" value="跨游戏系列兼容性.html">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="FFG星球大战跑团">
+          <param name="Local" value="主页.html">
         </OBJECT>
     </UL>
 </BODY>
