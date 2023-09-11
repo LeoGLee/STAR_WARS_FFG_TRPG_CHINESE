@@ -9,9 +9,13 @@
       <param name="FrameName" value="right">
       <param name="Window Styles" value="0x00800025">
       <param name="comment" value="title:星球大战角色扮演游戏">
-      <param name="comment" value="base:译名对照.html">
+      <param name="comment" value="base:主页.html">
     </OBJECT>
     <UL>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="FFG星球大战跑团">
+          <param name="Local" value="主页.html">
+        </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="译名对照">
           <param name="Local" value="译名对照.html">
@@ -182,6 +186,10 @@
                 </OBJECT>
             </UL>
             <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="天赋">
+              <param name="Local" value="天赋一览.html">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
               <param name="Name" value="装备">
               <param name="Local" value="装备.html">
             </OBJECT>
@@ -213,44 +221,6 @@
                 </OBJECT>
             </UL>
             <LI><OBJECT type="text/sitemap">
-              <param name="Name" value="载具">
-            </OBJECT>
-            <UL>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="载具特性">
-                  <param name="Local" value="载具特性.html">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="飞船航行">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="载具战斗">
-                </OBJECT>
-                <UL>
-                    <LI><OBJECT type="text/sitemap">
-                      <param name="Name" value="武器">
-                    </OBJECT>
-                    <LI><OBJECT type="text/sitemap">
-                      <param name="Name" value="伤害">
-                    </OBJECT>
-                    <LI><OBJECT type="text/sitemap">
-                      <param name="Name" value="战斗">
-                    </OBJECT>
-                </UL>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="飞船">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="车辆">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="战舰">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="改造">
-                </OBJECT>
-            </UL>
-            <LI><OBJECT type="text/sitemap">
               <param name="Name" value="战斗">
             </OBJECT>
             <UL>
@@ -276,6 +246,38 @@
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
                   <param name="Name" value="伤害与治疗">
+                </OBJECT>
+            </UL>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="载具">
+            </OBJECT>
+            <UL>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="载具特性">
+                  <param name="Local" value="载具特性.html">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="载具武器">
+                  <param name="Local" value="载具武器.html">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="载具战斗">
+                  <param name="Local" value="载具战斗.html">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="飞船航行">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="飞船">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="车辆">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="战舰">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="改造">
                 </OBJECT>
             </UL>
             <LI><OBJECT type="text/sitemap">
@@ -326,6 +328,19 @@
               <param name="Local" value="使用道德.html">
             </OBJECT>
             <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="可选规则">
+            </OBJECT>
+            <UL>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="以小队和中队的形式作战">
+                  <param name="Local" value="以小队和中队的形式作战.html">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Sabacc">
+                  <param name="Local" value="萨巴克.html">
+                </OBJECT>
+            </UL>
+            <LI><OBJECT type="text/sitemap">
               <param name="Name" value="使用动机">
             </OBJECT>
             <LI><OBJECT type="text/sitemap">
@@ -354,8 +369,23 @@
             </OBJECT>
         </UL>
         <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="怪物图鉴">
+          <param name="Name" value="盟友和对手">
+          <param name="Local" value="盟友与对手.html">
         </OBJECT>
+        <UL>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="义军与英雄">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="帝国与暴君">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="人渣与恶棍">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="生物与市民">
+            </OBJECT>
+        </UL>
     </UL>
 </BODY>
 </HTML>

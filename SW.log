@@ -35,6 +35,7 @@ Compiling d:\OneDrive\CHM试验\AGE OF REBELLION\星球大战角色扮演游戏.chm
 一般技能.html
 战斗技能.html
 知识技能.html
+天赋一览.html
 装备.html
 装备特性.html
 武器数值.html
@@ -57,6 +58,7 @@ Compiling d:\OneDrive\CHM试验\AGE OF REBELLION\星球大战角色扮演游戏.chm
 使用义务.html
 使用道德.html
 以小队和中队的形式作战.html
+萨巴克.html
 跨游戏系列兼容性.html
 盟友与对手.html
 img\dice\01.png
@@ -105,16 +107,17 @@ img\Species\Sullustans.png
 载具特性.files\image003.png
 载具特性.files\image004.png
 种族一览.files\filelist.xml
+天赋一览.files\filelist.xml
 载具特性.files\filelist.xml
 载具特性.files\themedata.thmx
 载具特性.files\colorschememapping.xml
 
-Compile time: 0 minutes, 4 seconds
-114	Topics
-116	Local links
+Compile time: 0 minutes, 12 seconds
+59	Topics
+121	Local links
 0	Internet links
 45	Graphics
 
 
-Created d:\OneDrive\CHM试验\AGE OF REBELLION\星球大战角色扮演游戏.chm, 1,763,451 bytes
-Compression decreased file by 521,139 bytes.
+Created d:\OneDrive\CHM试验\AGE OF REBELLION\星球大战角色扮演游戏.chm, 1,942,927 bytes
+Compression decreased file by 1,383,341 bytes.

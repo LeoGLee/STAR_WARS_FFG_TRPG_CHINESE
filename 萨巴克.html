@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>萨巴克牌</title>
+	</head>
+	<body>
+		<h1 align="center" style="color: blue;">萨巴克牌</h1>
+		<hr color="blue" style="height: 2px;">
+		<p>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;以下规则可用于模拟 sabacc 的一轮或一手牌，这是星球大战宇宙中一种流行的纸牌游戏，其中游戏玩家尝试使用一副 78 张纸牌来集齐一手正数或负数 23 的牌，这些牌在玩完之前会随机改变数值 。<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. 牌桌商定赌注，每位玩家将这笔金额放入彩池中。<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. 玩家使用冷静技能建立骰子池。<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. GM根据比赛的难度和对手的技术水平来确定检查的难度。 如果多台 PC 相互对战（或与普通 NPC 对抗），难度应该是一个设定值。 如果 PC 正在对抗熟练的 NPC（或者至少是对剧情很重要的人），则难度应根据 NPC 的技能来设定，按照对抗检查的规则。<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. 然后每个角色都投掷检定，将结果留在桌子上。 然后，每个人都掷一个<img src="img/dice/23.png"/>，以说明检定符号的变化性质。 对于每个<img src="img/dice/13.png"/>，一个<img src="img/dice/01.png"/>和<img src="img/dice/04.png"/>分别转换为<img src="img/dice/05.png"/>和<img src="img/dice/06.png"/>。 相反，每个<img src="img/dice/15.png"/>将一个<img src="img/dice/05.png"/>和<img src="img/dice/06.png"/>分别变为<img src="img/dice/01.png"/>和<img src="img/dice/04.png"/>。<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. 为了作弊，角色使用欺瞒、计算机或诡计来代替冷静（取决于作弊的具体手段）。 如果角色决定作弊，他们必须升级一次检查的难度。 如果检查生成<img src="img/dice/12.png">（无论剩余结果如何），则该角色将被发现作弊，并承担可能随之而来的任何后果。<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6. 如果玩家检查成功，他就赢回他的赌注（失败意味着他输掉他的赌注）。 每增加一个<img src="img/dice/01.png"/>即可赢得另一笔赌注。<img src="img/dice/11.png">可以让他揭晓正数或负数 23，并赢得整个萨巴克彩池。 本轮比赛结束。<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;当有多个PC时，进行竞争检定，<img src="img/dice/01.png"/>最多的玩家获胜。 如果没有 PC 成功，彩池将进入下一轮下注。
+		</p>
+		<table align="center" border="1" width="800">
+			<caption><b>在萨巴克比赛中使用<img src="img/dice/04.png"/>、<img src="img/dice/11.png">、<img src="img/dice/06.png"/>和<img src="img/dice/12.png"></b></caption>
+			 <tr align="center" style="color: white;">
+				<td bgcolor="darkorange"><b>结果</b></td>
+				<td bgcolor="darkorange"><b>解释</b></td>
+			</tr>
+			<tr>
+				<td bgcolor="orange"><img src="img/dice/04.png"/></td>
+				<td bgcolor="orange">其中一张卡片意外地变成有用的牌面，角色恢复了1压力。</td>
+			</tr>
+			<tr>
+				<td><img src="img/dice/04.png"/><img src="img/dice/04.png"/></td>
+				<td>角色成功吓唬对手，他的下一次检定将添加<img src="img/dice/17.png"/>。</td>
+		 	</tr>
+			<tr>
+			 	<td bgcolor="orange"><img src="img/dice/04.png"/><img src="img/dice/04.png"/><img src="img/dice/04.png"/></td>
+				<td bgcolor="orange">该角色弄清楚了对手的说法并降低了他下一次检查的难度。</td>
+			</tr>
+			<tr>
+				<td><img src="img/dice/11.png"></td>
+				<td>揭示正数、负数或自然数 23，并赢得整个萨巴克彩池（由 GM 决定）。</td>
+			</tr>
+			<tr>
+			 	<td bgcolor="orange"><img src="img/dice/06.png"/></td>
+				<td bgcolor="orange">角色手中的一张牌意外地变成有害的牌面，该角色遭受1压力。</td>
+			</tr>
+			<tr>
+				<td><img src="img/dice/06.png"/><img src="img/dice/06.png"/></td>
+				<td>角色落入对手的虚张声势，他会在下一次检定中添加<img src="img/dice/20.png"/>。</td>
+			</tr>
+			<tr>
+			 	<td bgcolor="orange"><img src="img/dice/06.png"/><img src="img/dice/06.png"/><img src="img/dice/06.png"/></td>
+				<td bgcolor="orange">注意力不集中或手牌严重不佳会暂时破坏角色的注意力。 他升级了下一次检查的难度。</td>
+			</tr>
+			<tr>
+				<td><img src="img/dice/12.png"></td>
+				<td>角色作弊被发现； 如果他没有作弊，<img src="img/dice/12.png">意味着他失败了，筹码耗尽，并且不能再玩游戏（根据 GM 的判断，他可能可以积累另一笔赌注并在回来再次加入）。</td>
+			</tr>
+		</table>
+	</body>
+</html>
